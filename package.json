@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "vercel-build": "node -e \"process.exit(0)\""
+  }
+}
