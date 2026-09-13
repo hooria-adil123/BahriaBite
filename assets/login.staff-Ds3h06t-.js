@@ -1,0 +1,1 @@
+import{j as t}from"./index-DkscR7gL.js";import{L as o}from"./LoginCard-CIA_Oj-B.js";import"./useServerFn-C3SLo-J1.js";import"./BahriaMark-C1xnxMtz.js";const r=()=>t.jsx(o,{role:"staff",title:"Staff",emoji:"🧑‍🍳",idLabel:"Username",idPlaceholder:"staff",demoId:"staff",demoPassword:"staff123",portalPath:"/staff",signupPath:"/signup/staff"});export{r as component};

@@ -1,0 +1,1 @@
+import{j as o}from"./index-DkscR7gL.js";import{L as m}from"./LoginCard-CIA_Oj-B.js";import"./useServerFn-C3SLo-J1.js";import"./BahriaMark-C1xnxMtz.js";const e=()=>o.jsx(m,{role:"admin",title:"Admin",emoji:"🗂️",idLabel:"Username",idPlaceholder:"admin",demoId:"admin",demoPassword:"admin123",portalPath:"/admin"});export{e as component};
